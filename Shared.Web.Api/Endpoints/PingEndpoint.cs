@@ -1,6 +1,6 @@
 ﻿using Nancy;
 
-namespace Web.Api.Endpoints
+namespace Shared.Web.Api.Endpoints
 {
     public class PingEndpoint : NancyModule
     {
